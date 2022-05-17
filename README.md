@@ -9,7 +9,7 @@
 </a>
 
 <a href='https://www.youtube.com/channel/UC3mVtgc4qt2XJP2LhEjpv6g'>
-  <img src="https://www.freepnglogos.com/uploads/youtube-logo-hd-8.png" width="50px">
+  <img src="https://e6.pngbyte.com/pngpicture/1525/png-instagram-png-instagram-logo.png" width="50px">
 </a>
 
 <br />
