@@ -4,6 +4,14 @@
   <img src="https://www.freepnglogos.com/uploads/youtube-logo-hd-8.png" width="50px">
 </a>
 
+<a href='https://www.youtube.com/channel/UC3mVtgc4qt2XJP2LhEjpv6g'>
+  <img src="https://pnggrid.com/wp-content/uploads/2021/04/telegram-logo-circle-1024x1024.png" width="50px">
+</a>
+
+<a href='https://www.youtube.com/channel/UC3mVtgc4qt2XJP2LhEjpv6g'>
+  <img src="https://www.freepnglogos.com/uploads/youtube-logo-hd-8.png" width="50px">
+</a>
+
 <br />
 
 ### Languages and tools I work with:
