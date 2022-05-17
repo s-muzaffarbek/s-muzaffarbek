@@ -8,7 +8,7 @@
 
 ### Languages and tools I work with:
 
-<code><img src="https://mpng.subpng.com/20180715/phb/kisspng-python-javascript-logo-clojure-python-logo-download-5b4ba705f356d3.4338622815316846139967.jpg" height="25px"></code>
+<code><img src="https://mpng.subpng.com/20180715/phb/kisspng-python-javascript-logo-clojure-python-logo-download-5b4ba705f356d3.4338622815316846139967.jpg" width="25px"></code>
 <code><img src="https://mpng.subpng.com/20180802/tpl/kisspng-logo-html5-brand-clip-art-%E6%9D%89-%E5%B1%B1-%E8%89%AF-%E9%9B%84-5b62be01b565d5.334247781533197825743.jpg" height="25px"></code>
 <code><img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" height="25px"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" height="25px"></code>
