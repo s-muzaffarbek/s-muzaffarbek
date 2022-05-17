@@ -4,11 +4,11 @@
   <img src="https://www.freeiconspng.com/thumbs/youtube-logo-png/hd-youtube-logo-png-transparent-background-20.png" width="30px">
 </a>
 <b>
-<a href='https://www.youtube.com/channel/UC3mVtgc4qt2XJP2LhEjpv6g'>
+<a href='https://t.me/smuzaffarbek'>
   <img src="https://pnggrid.com/wp-content/uploads/2021/04/telegram-logo-circle-1024x1024.png" width="30px">
 </a>
 
-<a href='https://www.youtube.com/channel/UC3mVtgc4qt2XJP2LhEjpv6g'>
+<a href='https://www.instagram.com/s.muzaffarbek/'>
   <img src="https://clipartcraft.com/images/instagram-logo-transparent-png-format-3.png" width="30px">
 </a>
 
